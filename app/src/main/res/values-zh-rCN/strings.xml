@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学生成绩</string>
+    <string name="label_student">学生成绩</string>
+    <string name="lable_add">添加学生</string>
+    <string name="textView_add">添加学生</string>
+    <string name="editText_name">姓名</string>
+    <string name="editText_grade">成绩</string>
+    <string name="editText_info">班级</string>
+    <string name="title_clear">清空数据</string>
+    <string name="title_exit">退出</string>
+</resources>
